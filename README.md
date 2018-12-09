@@ -12,4 +12,4 @@ The CPU have several versions (from simple to complex). Each of them is placed i
 
 For docs and CPU diagrams please visit the project [wiki](https://github.com/MIPSfpga/schoolMIPS/wiki)
 
-![CPU diagram](../../wiki/img/schoolMIPS_diagram.gif) 
+![CPU diagram](https://github.com/MIPSfpga/schoolMIPS/wiki/img/schoolMIPS_diagram.gif) 
